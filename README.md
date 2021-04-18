@@ -30,6 +30,6 @@ Other |  |
 ------------ | -------------| -------------
 CPU | 3970X - 5950X | AMD Ryzen 5950X
 RAM | minimum of 32GB | 
-GPU | Minimum capacity 4GB | 1080p
+GPU | Minimum capacity 4GB | 
 Disk |  | 
 Other |  |  
